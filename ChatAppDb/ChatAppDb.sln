@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{08C817C7-07DF-4E7B-ABB0-389F3831CE88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{57EB2338-754D-4F38-8940-85EFAA7EC55B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAppClient", "ChatAppClient\ChatAppClient.csproj", "{DCB42B08-7749-47AB-865C-20875AD9F2AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C817C7-07DF-4E7B-ABB0-389F3831CE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C817C7-07DF-4E7B-ABB0-389F3831CE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C817C7-07DF-4E7B-ABB0-389F3831CE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C817C7-07DF-4E7B-ABB0-389F3831CE88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57EB2338-754D-4F38-8940-85EFAA7EC55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EB2338-754D-4F38-8940-85EFAA7EC55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EB2338-754D-4F38-8940-85EFAA7EC55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EB2338-754D-4F38-8940-85EFAA7EC55B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB42B08-7749-47AB-865C-20875AD9F2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB42B08-7749-47AB-865C-20875AD9F2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB42B08-7749-47AB-865C-20875AD9F2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB42B08-7749-47AB-865C-20875AD9F2AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B2A5BC5-2E24-4E49-BCDB-4861883D661A}
+	EndGlobalSection
+EndGlobal
